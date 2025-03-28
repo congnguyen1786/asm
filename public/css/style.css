@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.card-title a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+aside ul li a {
+    color: #333;
+}
+
+aside ul li a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.content p {
+    margin-bottom: 15px;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #e9ecef;
+}
